@@ -201,6 +201,12 @@ Active-Directory-HelpDesk-Lab/
 │   └── Export-ADUsers.ps1
 └── documentation/
 ```
+## Technical Documentation
+
+- [Lab Setup](documentation/Lab-Setup.md)
+- [Troubleshooting Guide](documentation/Troubleshooting.md)
+- [Test Results](documentation/Test-Results.md)
+- [PowerShell Automation Script](scripts/Export-ADUsers.ps1)
 
 ## Skills demonstrated
 
